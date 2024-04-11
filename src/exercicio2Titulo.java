@@ -13,5 +13,6 @@ public class exercicio2Titulo {
         listaTitulos.add(new Titulo("X"));
 
         Collections.sort(listaTitulos);
+        System.out.println(listaTitulos);
     }
 }
